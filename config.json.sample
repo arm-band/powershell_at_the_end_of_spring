@@ -1,0 +1,8 @@
+{
+    "gitConfig": {
+        "repository": {
+            "originPort": "10080",
+            "modifiedPort": "10081"
+        }
+    }
+}
